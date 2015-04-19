@@ -1,0 +1,2 @@
+# AumationMng
+Automation Script
